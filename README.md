@@ -1,4 +1,4 @@
-# Scam Shield AI – AI-Powered Scam Detection and Real-Time Protection
+# Scam Shield – Intelligent Digital Fraud Detection and Protection System
 
 > **Tagline:** *Detect. Analyze. Protect.*
 
