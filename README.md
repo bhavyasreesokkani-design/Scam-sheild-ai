@@ -152,7 +152,11 @@ npm run build
 
 ---
 
-## 8. License & Team
+## 8. License & Developer
 
-Developed with ❤️ by the **Scam Shield AI Engineering Team**.  
-Licensed under the [MIT License](LICENSE).
+**Scam Shield AI** is independently designed and developed by **Bhavya Sree**, with a focus on building an accessible and practical cybersecurity solution for detecting and analyzing online scams and phishing threats.
+
+### License
+
+This project is licensed under the **MIT License**. See the [LICENSE](https://github.com/bhavyasreesokkani-design/Scam-sheild-ai/blob/main/LICENSE) file for complete license terms.
+
